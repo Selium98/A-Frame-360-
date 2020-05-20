@@ -15,7 +15,7 @@ appear to be blank. In order to view the files, follow the given steps :
 5. Open the local server on any browser and type in the name of the folder containing the files. You'll be able to see the result.
 
 If no server (XAMPP or WAMP) is present - 
-1. Open cmd in the folder containing all the files (index.html, images, javascript).
-2. Type python -m SimpleHTTPServer 8000
-3. Copy the port number and paste it in browser. You'll be able to see the result.
 
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+
+Follow the steps given in the above link. 
